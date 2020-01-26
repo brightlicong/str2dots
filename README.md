@@ -8,6 +8,10 @@
 
 ## 效果图
 
+![HUST](https://github.com/brightlicong/str2dots/blob/master/img/HUST.jpg)
+
+![聚团队](https://github.com/brightlicong/str2dots/blob/master/img/聚.jpg)
+
 ## Bug
 
 因为`opencv`不支持读取含名字含中文的文件，所以`file_name`请使用全英文。
